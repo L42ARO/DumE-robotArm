@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "COM10",
-    "sketch": "Code\\ArmTestCode\\ArmTestCode.ino"
+    "sketch": "Code\\PickUpTestCode\\PickUpTestCode.ino"
 }
